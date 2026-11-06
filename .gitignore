@@ -1,0 +1,10 @@
+# Phatcraft Server .gitignore
+
+# Server config
+*.toml
+
+# Server database
+*.sqlite
+
+# Server log
+*.log
