@@ -1,0 +1,13 @@
+# Phatcraft Server .gitignore
+
+# C++ Binary Folder
+bin/
+
+# TOML Config file
+*.toml
+
+# Database
+*.sqlite
+
+# Server Log
+*.log
